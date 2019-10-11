@@ -5,7 +5,7 @@ export default class Messpage extends Component {
   render() {
     return (
       <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-        <Text>This is the mess page!</Text>
+        <Text>This is the mess page, do you feel hungry yet?</Text>
       </View>
     );
   }

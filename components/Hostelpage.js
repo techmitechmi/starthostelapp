@@ -5,7 +5,7 @@ export default class Hostelpage extends Component {
   render() {
     return (
       <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-        <Text>This is the hostel page!</Text>
+        <Text>Welcome to the main hostel page!</Text>
       </View>
     );
   }
