@@ -20,7 +20,7 @@ export default class MainPage extends React.Component {
     <Button
       
       buttonStyle={{marginLeft: 0, marginRight: 0, marginBottom: 0, backgroundColor:'#000'}}
-      title='HOSTEL'
+      title='HOSTELS'
       />
   </Card>
 
