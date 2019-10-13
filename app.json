@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Hostel and Mess App",
-    "slug": "ccsproject",
-    "privacy": "public",
+    "name": "Mess Application",
+    "slug": "project cool",
+    "privacy": "protected",
     "sdkVersion": "32.0.0",
     "platforms": [
       "ios",
