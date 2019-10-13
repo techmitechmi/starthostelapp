@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Hostel and Mess App",
-    "slug": "ccsproject",
-    "privacy": "public",
+    "name": "HOSTEL AND MESS APP",
+    "slug": "PROJECT",
+    "privacy": "PUBLIC",
     "sdkVersion": "32.0.0",
     "platforms": [
       "ios",
@@ -14,7 +14,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "blue"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,7 +23,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false
     }
   }
 }
